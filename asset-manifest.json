@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movies-filter-app/static/css/main.977db8a1.chunk.css",
+    "main.js": "/movies-filter-app/static/js/main.97979a09.chunk.js",
+    "main.js.map": "/movies-filter-app/static/js/main.97979a09.chunk.js.map",
+    "runtime-main.js": "/movies-filter-app/static/js/runtime-main.1e0cff29.js",
+    "runtime-main.js.map": "/movies-filter-app/static/js/runtime-main.1e0cff29.js.map",
+    "static/js/2.a087dbb6.chunk.js": "/movies-filter-app/static/js/2.a087dbb6.chunk.js",
+    "static/js/2.a087dbb6.chunk.js.map": "/movies-filter-app/static/js/2.a087dbb6.chunk.js.map",
+    "index.html": "/movies-filter-app/index.html",
+    "precache-manifest.f38d25b18b5376173e5cb585bfc92bd6.js": "/movies-filter-app/precache-manifest.f38d25b18b5376173e5cb585bfc92bd6.js",
+    "service-worker.js": "/movies-filter-app/service-worker.js",
+    "static/css/main.977db8a1.chunk.css.map": "/movies-filter-app/static/css/main.977db8a1.chunk.css.map",
+    "static/js/2.a087dbb6.chunk.js.LICENSE.txt": "/movies-filter-app/static/js/2.a087dbb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e0cff29.js",
+    "static/js/2.a087dbb6.chunk.js",
+    "static/css/main.977db8a1.chunk.css",
+    "static/js/main.97979a09.chunk.js"
+  ]
+}
